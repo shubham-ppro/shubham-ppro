@@ -27,4 +27,4 @@ I’m a Lead Back-End Engineer focused on building configuration management and 
 
 ## Contact
 - Email: sbmaggarwal@gmail.com
-- LinkedIn: [[your-linkedin](https://www.linkedin.com/in/sbmaggarwal/)]
+- LinkedIn: [https://www.linkedin.com/in/sbmaggarwal/]
